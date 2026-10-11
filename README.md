@@ -1,19 +1,16 @@
-ATM Interface 
+# ATM Interface 
 
 A web-based ATM interface project that simulates ATM interactions through a simple and user-friendly interface.
 
-Features
+## Features
 
-Interactive ATM interface
+- Interactive ATM interface
+- User-friendly layout
+- Simulated ATM operations
 
-User-friendly layout
+## Technologies Used
 
-Simulated ATM operations
+- HTML
+- CSS
+- JavaScript
 
-Technologies Used
-
-HTML
-
-CSS
-
-JavaScript
